@@ -1,1 +1,1 @@
-# NCAA-ML-Competittion
+# NCAA-ML-Competition
